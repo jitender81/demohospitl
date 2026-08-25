@@ -1,0 +1,6 @@
+{
+  "name": "PulseHealth - Hospital Management System",
+  "description": "Enterprise-grade, multi-tenant Hospital Management & EHR System for the Indian healthcare ecosystem with 5 specialized portals: Patient, Doctor, Reception, Department, and Admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
